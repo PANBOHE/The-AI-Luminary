@@ -3,3 +3,16 @@
 
 # Ada Library Information
 *.ali
+
+# Python 缓存和打包
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# 环境变量
+.env
+.venv/
+env/
+venv/
