@@ -9,7 +9,7 @@
 让我们一起共同成长  
 您的一杯咖啡，也是对作者的支持与鼓励！  
 
-![一起加油]https://github.com/PANBOHE/The-AI-Luminary/blob/main/statics/fighting.jpg)  
+![一起加油](https://github.com/PANBOHE/The-AI-Luminary/blob/main/statics/fighting.jpg)  
 
 
 
